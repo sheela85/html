@@ -1,0 +1,86 @@
+table, tr,th, td {
+    border: 1px solid rgb(8, 8, 8);
+    border-collapse: collapse;
+  
+  }
+  th, td ,tr{
+    background-color: #87e387;
+  }
+ 
+h1{
+    color: rgb(100, 0, 38);
+}
+h2{
+    color: rgb(207, 10, 10);
+}
+h3{
+    color: rgb(122, 4, 30);
+}
+h4{
+    color: #1508c7;
+}
+p{
+    color: mediumblue;
+}
+ul{
+    color:rgb(10, 0, 209);
+    font-size: 25px;
+}
+p{
+    color:rgb(10, 10, 10);
+    font-size: 25px;
+}
+ol{
+    color:red;
+    
+}
+th{
+    color:rgb(100, 0, 23);
+    font-size: 25px;
+}
+td{
+    color: rgb(69, 8, 69);
+    font-size: 25px;
+}
+div{
+    color: darkblue;
+    font-size: 25px;
+}
+
+
+.tb{
+    width:600px;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.tb thead{
+    background-color: rgb(255, 131, 127);
+    color: rgb(255, 255, 255);
+}
+.tb th ,.tb td{
+padding: 10px;
+text-align: left;
+border: 3px solid rgb(207, 200, 197);
+}
+body{
+  background-image:url("billa.webp");
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-size: cover;
+color: burlywood;
+
+}
+.actor{
+  color: rgb(3, 0, 0);
+  font-size: 60px;
+  text-align: center;
+  font-family: initial;
+}
+.size{
+  font-size: 30px;
+}
+.award{
+  font-size: 30px;
+}
